@@ -1,4 +1,4 @@
-A=float(input())*3.5/11
-B=float(input())*7.5/11
-MEDIA=A+B
+A=float(input())
+B=float(input())
+MEDIA=((A*3.5)+(B*7.5))/11
 print("MEDIA = %0.5f" %MEDIA)
